@@ -26,7 +26,5 @@ Se entrenan varios modelos de regresión y se evalúan en el conjunto de prueba 
 
 ## Estructura del Repositorio
 - `src/`: Contiene los scripts y notebooks de código fuente utilizados para realizar el análisis y entrenar los modelos.
-- `data/`: Almacena el conjunto de datos original y los conjuntos de datos procesados.
-- `models/`: Contiene los modelos entrenados y guardados para su posterior uso.
-- `images/`: Contiene las visualizaciones y gráficos generados durante el análisis.
+- `data/`: Almacena el conjunto de datos original.
 - `README.md`: Este archivo, que proporciona una guía detallada sobre el proyecto, sus objetivos y la estructura del repositorio.
